@@ -2,7 +2,9 @@ Instrument Cluster Simulator for SocketCAN
 ------------------------------------------
 Better to Install how for Ubuntu?
 
-You look from Rifky The Cyber Youtube
+You look from Rifky The Cyber Youtube, the Video is below :
+
+https://youtu.be/TndhhHRDjRw?si=Lim7xTKYfxxO6QLy
 
 
 Testing on a virtual CAN interface
