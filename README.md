@@ -91,3 +91,8 @@ For the most realistic training you can change the difficulty levels.  Set the d
 
 This will add additional randomization to the target packets, simulating other data stored in the same arbitration id.
 
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+
+Or scan the QR code below:
+
+![Donate](https://github.com/user-attachments/assets/560314d1-58f9-4d0d-a96e-78d28bb7dc44)
